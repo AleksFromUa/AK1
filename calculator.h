@@ -6,7 +6,7 @@ class Calculator
     public:
         int Add (double, double);
         int Sub (double, double);
-        int Mul (double, double);
+        int Mul (double, double); // added mult
 };
 
 #endif//CALCULATOR_H
