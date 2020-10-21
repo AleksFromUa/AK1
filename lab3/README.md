@@ -1,6 +1,6 @@
-#lab3 AK
+# lab3 AK
 
-##operators
+## operators
     -h -- help
     -l --list
     -v --version
@@ -8,9 +8,9 @@
     -i --ipsum
     -V<N> -value=<N>, де <N> числове, або буквенне значення
     
-##makefile description
-###"make"
+## makefile description
+### "make"
     runs "make build example"
     builds and shows ex
-###"make help"
+### "make help"
     shows all keys
